@@ -1,13 +1,14 @@
 {
-  "name": "testoMungo",
-  "description": "testoMungo",
+  "name": "testomungo",
+  "description": "testomungo",
+  "license": "MIT",
   "author": "testoMungo",
   "homepage": "x.com/paywall#readme",
   "repository": {
     "type": "git",
     "url": "x.git"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
