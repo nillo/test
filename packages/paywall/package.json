@@ -1,6 +1,6 @@
 {
-  "name": "testomungo",
-  "description": "testomungo",
+  "name": "testomungobravo",
+  "description": "estomungobravo",
   "license": "MIT",
   "author": "testoMungo",
   "homepage": "x.com/paywall#readme",
@@ -8,7 +8,7 @@
     "type": "git",
     "url": "x.git"
   },
-  "version": "0.0.6",
+  "version": "0.1.0",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
