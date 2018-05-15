@@ -1,0 +1,26 @@
+{
+  "name": "testoMungo",
+  "description": "testoMungo",
+  "author": "testoMungo",
+  "homepage": "x.com/paywall#readme",
+  "repository": {
+    "type": "git",
+    "url": "x.git"
+  },
+  "version": "0.0.2",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "flow": "npx flow check",
+    "test": "echo \"Error: no tests pecified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "16.3.1",
+    "react-native": "~0.55.2"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.66.0"
+  }
+}
